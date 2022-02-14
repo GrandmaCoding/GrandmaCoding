@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Julian Metzger.
-- 👀 I’m interested in learning web development, music, playing the piano, and video games.
-- 🌱 I’m currently learning Javascript/JQuery so I can learn Node.js to develop Microsoft Office/Google Workspace add-in apps.
-- 💞️ I’m looking to collaborate!
+- I’m interested in learning web development, music, playing the piano, and video games.
+- I’m currently learning Javascript/JQuery so I can learn Node.js to develop Microsoft Office/Google Workspace add-in apps.
+- I’m looking to collaborate!
 - 📫 How to reach me: jmetzger5@gmail.com
 
 <!---
