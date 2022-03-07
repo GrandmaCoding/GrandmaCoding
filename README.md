@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julian Metzger.
 - I’m interested in programming, music, playing the piano, hiking, and video games.
-- I’m currently learning Javascript/JQuery so I can learn Node.js to develop Microsoft Office/Google Workspace add-in apps.
+- I’m currently learning .NET with Revature.
 - I’m looking to collaborate!
 - 📫 How to reach me: jmetzger5@gmail.com
 
