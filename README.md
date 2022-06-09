@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Julian Metzger.
-- I’m a student of the .NET and Angular frameworks.
-- I’m currently studying web development with Revature!
+- I'm currently a web developer with Infosys!
 - 📫 How to reach me: jmetzger5@gmail.com
